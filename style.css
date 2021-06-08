@@ -91,7 +91,7 @@ a.active,a:hover{
 	}
 }
 section{
-	background: url(dev228.html) no-repeat;
+	background: url(dev228.png) no-repeat;
 	background-size: cover;
 	height: calc(100vh - 80px);
 }
