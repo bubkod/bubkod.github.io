@@ -89,9 +89,3 @@
   #check:checked ~ ul{
     left: 0;
   }
-  }
-  section{
-  background: url(unknown_4.png) no-repeat;
-  background-size: cover;
-  height: calc(100vh - 80px);
-  }
